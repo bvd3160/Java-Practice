@@ -1,4 +1,4 @@
-package Java;
+package JavaPractice;
 
 import javax.print.attribute.standard.PrinterLocation;
 
