@@ -1,7 +1,7 @@
 /**
  * 
  */
-package JavaPractice;
+package UserInput;
 
 /**
  * @author Jean-Yves Kwibuka
